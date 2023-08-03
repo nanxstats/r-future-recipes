@@ -15,4 +15,4 @@ especially for parallelization.
 
 ## Avoid using fork with RStudio
 
-- [Protect against using forked processes (aka "multicore") in RStudio)](https://github.com/HenrikBengtsson/future/issues/299)
+- [Protect against using forked processes (aka "multicore") in RStudio](https://github.com/HenrikBengtsson/future/issues/299)
