@@ -12,3 +12,7 @@ especially for parallelization.
 
 - [`%dofuture%` documentation](https://dofuture.futureverse.org/reference/grapes-dofuture-grapes.html) - Code examples section includes nested loops.
 - [Future topologies vignette](https://future.futureverse.org/articles/future-3-topologies.html) - How to set `plan()` for each level.
+
+## Avoid using fork with RStudio
+
+- [Protect against using forked processes (aka "multicore") in RStudio)](https://github.com/HenrikBengtsson/future/issues/299)
