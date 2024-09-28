@@ -1,5 +1,7 @@
 # R future recipes
 
+<img src="images/banner.png" alt="r-future-recipes">
+
 The purpose of repo is to help myself remember important guides, examples,
 and best practices related to using the future framework in R,
 especially for parallelization.
